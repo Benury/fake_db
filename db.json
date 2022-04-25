@@ -3,7 +3,7 @@
     {
       "id": 1,
       "username": "Johnson",
-      "age": 20
+      "age": "20"
     }
   ]
 }
